@@ -1,0 +1,16 @@
+body {
+  color: rgb(66, 40, 170);
+  text-align: center;
+  font-size: 18px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-family: arial;
+  }
+
+
+  hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+  }
